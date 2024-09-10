@@ -5,6 +5,5 @@ public class Main {
         int pieces = 20; // Рублей за 1 милю
 
         System.out.println((ticket / pieces) + " Бонусов начиленно");
-
     }
 }
