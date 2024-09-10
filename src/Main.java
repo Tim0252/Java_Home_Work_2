@@ -4,7 +4,7 @@ public class Main {
         int ticket = 13676; // Стоимость билета
         int pieces = 20; // Рублей за 1 милю
 
-        System.out.println((ticket/pieces) + " Бонусов начиленно");
+        System.out.println((ticket / pieces) + " Бонусов начиленно");
 
     }
 }
